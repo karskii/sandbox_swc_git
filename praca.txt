@@ -9,3 +9,9 @@ Wszystko zaczęło się od książki ...
 4. Wnioski i podsumowanie.
 Zmierzono i ...
 
+5. Dodatek A.
+Zestaw rozkładów kontrolnych.
+
+6. Dodatek B.
+Tu wyniki dopasowania.
+
