@@ -12,8 +12,9 @@ Zmierzono i ...
 5. Dodatek A.
 Zestaw rozkładów kontrolnych.
 
-6. Dodatek B.
+6. Dodatek B (zmieniłem linijkę, czy będzie konflikt?).
 Tu wyniki dopasowania.
 
 7. Dodatek C.
+
 
