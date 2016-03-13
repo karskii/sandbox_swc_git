@@ -1,10 +1,10 @@
-# Pierwsza wersja pracy edytowana za pomocą gita
+# Trzecia (chyba) wersja pracy edytowana za pomocą gita
 
 1. Wstęp
 
-2.
+2. Motywacja.
 
-3.
+3.Analiza.
 
 4. Wnioski i podsumowanie.
 
