@@ -10,3 +10,7 @@
 
 5. Dodatek A.
 Zestaw rozkładów kontrolnych.
+
+6. Dodatek B.
+Tu wyniki dopasowania.
+
