@@ -16,5 +16,6 @@ Zestaw rozkładów kontrolnych.
 Tu wyniki dopasowania.
 
 7. Dodatek C.
+xxxxx
 
 
